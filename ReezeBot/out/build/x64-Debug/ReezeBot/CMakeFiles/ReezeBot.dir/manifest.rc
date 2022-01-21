@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/kimmi/source/repos/ReezeBot/out/build/x64-Debug/ReezeBot/CMakeFiles/ReezeBot.dir/embed.manifest"
